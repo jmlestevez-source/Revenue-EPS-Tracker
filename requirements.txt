@@ -1,0 +1,7 @@
+streamlit
+yfinance>=0.2.36
+pandas
+plotly
+requests
+beautifulsoup4
+curl_cffi
