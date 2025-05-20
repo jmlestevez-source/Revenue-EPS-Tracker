@@ -1,0 +1,4 @@
+--- DEBUG LOG: MAIN BLOCK STARTED ---
+--- DEBUG LOG: Attempting to fetch data for: AAPL ---
+--- DEBUG LOG: Data fetched for AAPL, but DataFrame is EMPTY. ---
+--- DEBUG LOG: MAIN BLOCK FINISHED ---
